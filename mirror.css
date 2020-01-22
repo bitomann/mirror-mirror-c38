@@ -1,0 +1,14 @@
+div {
+    display: flex;
+    flex-direction: row;
+    align-content: stretch;
+    justify-content: space-evenly;
+}
+#article1 {
+    width: 50%;
+    border: 2px solid rgb(88, 88, 170);
+}
+#article2 {
+    width: 50%;
+    border: 2px solid rgb(0, 128, 107);
+}
